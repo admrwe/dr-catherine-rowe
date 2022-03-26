@@ -1,0 +1,20 @@
+{
+  "name": "dr-catherine-rowe",
+  "version": "1.0.0",
+  "description": "Website for Dr. Catherine Rowe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/admrwe/dr-catherine-rowe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/admrwe/dr-catherine-rowe/issues"
+  },
+  "homepage": "https://github.com/admrwe/dr-catherine-rowe#readme"
+}

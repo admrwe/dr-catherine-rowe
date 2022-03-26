@@ -1,1 +1,3 @@
-# dr-catherine-rowe
+# Dr. Catherine Rowe
+
+Repository for https://drcatherinerowe.com.
